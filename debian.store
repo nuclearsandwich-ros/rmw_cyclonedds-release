@@ -1,1 +1,1 @@
-{"trim": "", "base": "68bb28c", "trimbase": "", "parent": "debian/eloquent/cyclonedds_cmake_module", "previous": "caacfa4"}
+{"base": "2e72e46", "parent": "debian/verystable/cyclonedds_cmake_module", "previous": "869e6c9", "trim": "", "trimbase": ""}
